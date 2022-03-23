@@ -1,7 +1,7 @@
 {
-  "name": "jobify",
+  "name": "onlymyjobs",
   "version": "1.0.0",
-  "description": "#### Track Your Job Search",
+  "description": "#### Track Your applied Jobs",
   "main": "index.js",
   "type": "module",
   "scripts": {
